@@ -1,0 +1,8 @@
+E:\csharp\ptt\ptt\bin\Debug\ptt.exe.config
+E:\csharp\ptt\ptt\bin\Debug\ptt.exe
+E:\csharp\ptt\ptt\bin\Debug\ptt.pdb
+E:\csharp\ptt\ptt\obj\Debug\Interop.MODI.dll
+E:\csharp\ptt\ptt\obj\Debug\ptt.csproj.ResolveComReference.cache
+E:\csharp\ptt\ptt\obj\Debug\ptt.exe
+E:\csharp\ptt\ptt\obj\Debug\ptt.pdb
+E:\csharp\ptt\ptt\obj\Debug\ptt.csprojResolveAssemblyReference.cache

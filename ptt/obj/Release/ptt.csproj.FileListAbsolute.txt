@@ -1,0 +1,7 @@
+E:\csharp\ptt\ptt\bin\Release\ptt.exe.config
+E:\csharp\ptt\ptt\obj\Release\Interop.MODI.dll
+E:\csharp\ptt\ptt\obj\Release\ptt.csproj.ResolveComReference.cache
+E:\csharp\ptt\ptt\bin\Release\ptt.exe
+E:\csharp\ptt\ptt\bin\Release\ptt.pdb
+E:\csharp\ptt\ptt\obj\Release\ptt.exe
+E:\csharp\ptt\ptt\obj\Release\ptt.pdb
